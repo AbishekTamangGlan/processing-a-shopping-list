@@ -1,3 +1,4 @@
+//Program to prepare processing a shopping list using OOP.
 #include<iostream>
 using namespace std;
 const int m=40; 		
